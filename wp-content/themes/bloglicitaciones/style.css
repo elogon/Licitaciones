@@ -14,7 +14,7 @@ Description: prueba para licitacionesInfo
 }
 .Home{
  margin-top: 50px;
-  background-image: url("https://image.ibb.co/es4vKQ/Objeto04.png");
+  background-image: url("img/Objeto04.png");
   background-color: #cccccc;
   height:100%;
   max-width: 100%;
@@ -24,7 +24,7 @@ Description: prueba para licitacionesInfo
 }
 
 .About{
-  background-image: url("https://image.ibb.co/mCLgtk/Laptop03.png");
+  background-image: url("img/Laptop03.png");
   background-color: #cccccc;
   height:100%;
   max-width: 100%;
@@ -46,7 +46,7 @@ Description: prueba para licitacionesInfo
 }
 .Contacto{
   padding: 50px 30px 50px 30px;
-  background-image: url("https://image.ibb.co/dSyO65/Laptop02.png");
+  background-image: url("img/Laptop02.png");
   background-color: #cccccc;
   height:100%;
   max-width: 100%;
